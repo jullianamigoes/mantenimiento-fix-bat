@@ -60,14 +60,18 @@ Al ejecutar `fix.bat`, accederás a un panel de control interactivo:
 ## Imágenes
 
 ***Archivo .bat***
+
 ![](https://github.com/jullianamigoes/mantenimiento-fix-bat/blob/main/imagenes/archivo.png)
 
 ***Menú***
+
 ![](https://github.com/jullianamigoes/mantenimiento-fix-bat/blob/main/imagenes/ejemplo_uso.png)
 
 ***Resultado opción 5***
+
 ![](https://github.com/jullianamigoes/mantenimiento-fix-bat/blob/main/imagenes/resultado_op5.png)
 
 ***Archivos de reportes***
+
 ![](https://github.com/jullianamigoes/mantenimiento-fix-bat/blob/main/imagenes/reportes.png)
 
